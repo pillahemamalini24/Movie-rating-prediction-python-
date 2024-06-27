@@ -1,4 +1,4 @@
-# Movie-rating-prediction-python-
+# Movie-rating-prediction-python-machinelearning
 
 **INTRODUCTION**
 The goal of this project is to create a machine learning model that can predict the ratings of movies based on their features such as genre, director, and main actors. We'll use data from IMDb, which provides information about many movies, including their ratings. By analyzing this data and using regression techniques, we aim to build a model that can estimate a movie's rating before it's released. This could help movie producers, critics, and fans get an early idea of how a movie might be received.
